@@ -1,0 +1,14 @@
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/bin/Debug/net9.0/andre.20250325.tes
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/bin/Debug/net9.0/andre.20250325.tes.deps.json
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/bin/Debug/net9.0/andre.20250325.tes.runtimeconfig.json
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/bin/Debug/net9.0/andre.20250325.tes.dll
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/bin/Debug/net9.0/andre.20250325.tes.pdb
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/obj/Debug/net9.0/andre.20250325.tes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/obj/Debug/net9.0/andre.20250325.tes.AssemblyInfoInputs.cache
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/obj/Debug/net9.0/andre.20250325.tes.AssemblyInfo.cs
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/obj/Debug/net9.0/andre.20250325.tes.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/obj/Debug/net9.0/andre.20250325.tes.dll
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/obj/Debug/net9.0/refint/andre.20250325.tes.dll
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/obj/Debug/net9.0/andre.20250325.tes.pdb
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/obj/Debug/net9.0/andre.20250325.tes.genruntimeconfig.cache
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/obj/Debug/net9.0/ref/andre.20250325.tes.dll

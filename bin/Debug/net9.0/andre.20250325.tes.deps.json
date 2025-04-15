@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "andre.20250325.tes/1.0.0": {
+        "runtime": {
+          "andre.20250325.tes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "andre.20250325.tes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
