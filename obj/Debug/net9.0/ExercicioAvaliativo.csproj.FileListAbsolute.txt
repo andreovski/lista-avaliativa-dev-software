@@ -1,0 +1,15 @@
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/obj/Debug/net9.0/ExercicioAvaliativo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/obj/Debug/net9.0/ExercicioAvaliativo.AssemblyInfoInputs.cache
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/obj/Debug/net9.0/ExercicioAvaliativo.AssemblyInfo.cs
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/obj/Debug/net9.0/ExercicioAvaliativo.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/obj/Debug/net9.0/ExercicioAvaliativo.sourcelink.json
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/bin/Debug/net9.0/ExercicioAvaliativo
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/bin/Debug/net9.0/ExercicioAvaliativo.deps.json
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/bin/Debug/net9.0/ExercicioAvaliativo.runtimeconfig.json
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/bin/Debug/net9.0/ExercicioAvaliativo.dll
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/bin/Debug/net9.0/ExercicioAvaliativo.pdb
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/obj/Debug/net9.0/ExercicioAvaliativo.dll
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/obj/Debug/net9.0/refint/ExercicioAvaliativo.dll
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/obj/Debug/net9.0/ExercicioAvaliativo.pdb
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/obj/Debug/net9.0/ExercicioAvaliativo.genruntimeconfig.cache
+/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/obj/Debug/net9.0/ref/ExercicioAvaliativo.dll

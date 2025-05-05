@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/andre.20250325.tes.csproj",
-      "projectName": "andre.20250325.tes",
-      "projectPath": "/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/andre.20250325.tes.csproj",
+      "projectUniqueName": "/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/ExercicioAvaliativo.csproj",
+      "projectName": "ExercicioAvaliativo",
+      "projectPath": "/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/ExercicioAvaliativo.csproj",
       "packagesPath": "/Users/admin/.nuget/packages/",
-      "outputPath": "/Users/admin/Documents/www/up-2-periodo/topicos-especiais/andre.20250325.tes/obj/",
+      "outputPath": "/Users/admin/Documents/www/up-2-periodo/topicos-especiais/ExercicioAvaliativo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/admin/.nuget/NuGet/NuGet.Config"
