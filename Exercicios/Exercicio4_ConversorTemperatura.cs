@@ -7,6 +7,7 @@ namespace ExercicioAvaliativo.Exercicios
         public static void Executar()
         {
             int opcao;
+            
             do
             {
                 // Exibe o menu de opções para o usuário
