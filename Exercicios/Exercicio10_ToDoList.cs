@@ -17,7 +17,8 @@ namespace ExercicioAvaliativo.Exercicios
                 Console.WriteLine("\nMenu:");
                 Console.WriteLine("1 - Adicionar tarefa");
                 Console.WriteLine("2 - Listar tarefas");
-                Console.WriteLine("3 - Sair");
+                Console.WriteLine("3 - Marcar tarefa como concluída");
+                Console.WriteLine("4 - Sair");
                 Console.Write("Escolha uma opção: ");
                 opcao = Console.ReadLine();
 
@@ -38,6 +39,19 @@ namespace ExercicioAvaliativo.Exercicios
                         }
                         break;
                     case "3":
+                        Console.Write("Digite o número da tarefa que deseja marcar como concluída: ");
+                        if (int.TryParse(Console.ReadLine(), out int numero) && numero >= 1 && numero <= tarefas.Count)
+                        {
+                            // Adiciona "(Concluída)" ao final da tarefa
+                            tarefas[numero - 1] = tarefas[numero - 1] + " (Concluída)";
+                            Console.WriteLine("Tarefa marcada como concluída!");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Número inválido.");
+                        }
+                        break;
+                    case "4":
                         // Encerra o programa
                         Console.WriteLine("Saindo...");
                         break;
@@ -47,7 +61,7 @@ namespace ExercicioAvaliativo.Exercicios
                         break;
                 }
 
-            } while (opcao != "3"); // Continua exibindo o menu até que o usuário escolha sair
+            } while (opcao != "4"); // Continua exibindo o menu até que o usuário escolha sair
         }
     }
 }
